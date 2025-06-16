@@ -26,7 +26,6 @@
 ## 📈 GitHub Stats
 
 ![Luana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luarush&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luarush&layout=compact&theme=github_dark)
 
 ---
 
