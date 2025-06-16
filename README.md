@@ -20,7 +20,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+![PuTTY](https://img.shields.io/badge/PuTTY-%230075B7.svg?style=for-the-badge&logo=putty&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-%230070AD.svg?style=for-the-badge&logo=winscp&logoColor=white)
 
 ---
 
@@ -33,4 +34,4 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luarush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanaccardoso)
