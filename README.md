@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luana
 
-🎓 I'm a Computer Science and Cybersecurity double major at Temple University.  
+🎓 I'm a Senior Computer Science and Cybersecurity double major at Temple University.  
 🔍 I'm interested in cybersecurity, programming, and applying what I learn in real-world projects.  
 🚀 Actively growing my skills through hands-on coursework and independent projects.
 
@@ -9,10 +9,8 @@
 ## 🛠️ Languages & Technologies
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
