@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Luana
 
 🎓 I'm a Computer Science and Cybersecurity double major at Temple University.  
-🔍 I'm interested in cybersecurity, programming, and applying what I learn in real-world projects.  
+🔍 I'm interested in cybersecurity and programming.  
 🚀 Actively growing my skills through hands-on coursework and independent projects.
 
 ---
